@@ -14,7 +14,7 @@ We take security seriously. Since this is an educational tool, "vulnerabilities"
 If you find an issue:
 
 1.  Do **NOT** open a public GitHub issue.
-2.  Email `security@hackerx.org` (mock email for project).
+2.  Email `suryanshunab@gmail.com` (mock email for project).
 3.  We will respond within 48 hours.
 
 ## Offensive Use Policy
