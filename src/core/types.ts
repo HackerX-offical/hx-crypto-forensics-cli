@@ -1,4 +1,4 @@
-export type HashAlgorithm = "sha256" | "bcrypt" | "argon2";
+export type HashAlgorithm = 'sha256' | 'bcrypt' | 'argon2';
 
 export interface HashOptions {
   algorithm: HashAlgorithm;

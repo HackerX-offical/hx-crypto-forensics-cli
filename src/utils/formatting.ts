@@ -1,4 +1,4 @@
-import chalk from "chalk";
+import chalk from 'chalk';
 
 export class FormatUtils {
   static title(text: string): string {
@@ -6,15 +6,15 @@ export class FormatUtils {
   }
 
   static success(text: string): string {
-    return chalk.green(`✔ ${text}`);
+    return chalk.green(` ${text}`);
   }
 
   static error(text: string): string {
-    return chalk.red(`✖ ${text}`);
+    return chalk.red(` ${text}`);
   }
 
   static warning(text: string): string {
-    return chalk.yellow(`⚠ ${text}`);
+    return chalk.yellow(` ${text}`);
   }
 
   static info(text: string): string {

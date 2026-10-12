@@ -9,7 +9,9 @@
 
 ## Reporting a Vulnerability
 
-We take security seriously. Since this is an educational tool, "vulnerabilities" might include misleading educational content or logic errors that could lead users to implement insecure systems.
+We take security seriously. Since this is an educational tool, "vulnerabilities" might
+include misleading educational content or logic errors that could lead users to
+implement insecure systems.
 
 If you find an issue:
 
@@ -19,4 +21,6 @@ If you find an issue:
 
 ## Offensive Use Policy
 
-This tool is designed to be **incapable** of offensive attacks. Any pull request trying to add brute-forcing, rainbow table lookups, or credential stuffing features will be **rejected** and reported.
+This tool is designed to be **incapable** of offensive attacks. Any pull request trying
+to add brute-forcing, rainbow table lookups, or credential stuffing features will be
+**rejected** and reported.

@@ -13,7 +13,8 @@ We welcome contributions that improve the usage or educational value of this too
 ## Rules
 
 1.  **Educational First**: Features must teach, not just "do".
-2.  **No Offense**: No cracking tools. No "fastest hash generator" (unless for benchmarks).
+2.  **No Offense**: No cracking tools. No "fastest hash generator" (unless for
+    benchmarks).
 3.  **Strict Types**: No `any`.
 
 ## Development

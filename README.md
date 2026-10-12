@@ -1,16 +1,23 @@
 # HX Crypto Forensics CLI
 
-> **Educational Cryptography Analysis Toolkit** > _Master the principles of hashing, salting, and defensive storage._
+> **Educational Cryptography Analysis Toolkit** > _Master the principles of hashing,
+> salting, and defensive storage._
 
-**HX Crypto Forensics CLI** is a terminal-based learning environment built by **HackerX**. It provides a hands-on way to understand how cryptographic hashing algorithms works, how salts defend against attacks, and how to analyze password storage configurations for security risks.
+**HX Crypto Forensics CLI** is a terminal-based learning environment built by
+**HackerX**. It provides a hands-on way to understand how cryptographic hashing
+algorithms works, how salts defend against attacks, and how to analyze password storage
+configurations for security risks.
 
-**⚠️ ETHICAL NOTICE**: This tool is strictly for **educational and defensive purposes**. It contains **NO** cracking, brute-forcing, or offensive capabilities. It is designed to help engineers build safer systems.
+** ETHICAL NOTICE**: This tool is strictly for **educational and defensive purposes**.
+It contains **NO** cracking, brute-forcing, or offensive capabilities. It is designed to
+help engineers build safer systems.
 
 ## Features
 
 - **Hash Generation**: Explore SHA-256, bcrypt, and Argon2 behaviors.
 - **Salt Lifecycle**: Simulate salt generation and understand its role in uniqueness.
-- **Forensic Analysis**: Analyze hash strings to identify algorithms and potential weaknesses (e.g. low cost factors).
+- **Forensic Analysis**: Analyze hash strings to identify algorithms and potential
+  weaknesses (e.g. low cost factors).
 - **Interactive Mode**: Learn via a guided CLI experience.
 - **Offline Only**: Runs entirely locally. No data leaves your machine.
 
@@ -48,3 +55,8 @@ npm start interactive
 ## License
 
 MIT © HackerX
+
+## License
+
+Licensed under the [HackerX License](./LICENSE). Redistributions must retain copyright,
+license text, and [NOTICE](./NOTICE) attribution per the license terms.

@@ -1,5 +1,5 @@
-import { Explanation } from "../core/types";
-import { THEORY_CONTENT } from "./content";
+import { Explanation } from '../core/types';
+import { THEORY_CONTENT } from './content';
 
 export class ExplainerService {
   /**
@@ -13,9 +13,9 @@ export class ExplainerService {
 
     // Fallback/Generic
     return {
-      title: "Unknown Topic",
+      title: 'Unknown Topic',
       content: `No specific detailed explanation found for "${topic}".`,
-      technicalDetails: "Try topics like: sha256, bcrypt, argon2, salt.",
+      technicalDetails: 'Try topics like: sha256, bcrypt, argon2, salt.',
     };
   }
 
