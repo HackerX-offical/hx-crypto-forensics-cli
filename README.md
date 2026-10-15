@@ -16,7 +16,7 @@ hashes without live cracking farms.
 ## Install
 
 ```bash
-git clone https://github.com/HackerX-offical/hx-crypto-forensics-cli.git
+git clone https://github.com/HackerX-official/hx-crypto-forensics-cli.git
 cd hx-crypto-forensics-cli
 npm install && npm run build
 ```
