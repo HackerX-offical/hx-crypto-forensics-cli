@@ -31,5 +31,13 @@
     "bcrypt": "^6.0.0",
     "chalk": "^4.1.2",
     "commander": "^14.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerX-official/hx-crypto-forensics-cli.git"
+  },
+  "homepage": "https://github.com/HackerX-official/hx-crypto-forensics-cli#readme",
+  "bugs": {
+    "url": "https://github.com/HackerX-official/hx-crypto-forensics-cli/issues"
   }
 }
